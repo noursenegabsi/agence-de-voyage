@@ -332,6 +332,7 @@ void RECHERCHE (){
 
 void main(){
     int a;
+    printf("******AGENCE DE VOYAGE ******");
     printf("1- Ajouter un voyage.\n");
     printf("2- Afficher la description du voyage.\n");
     printf("3- Supprimer un voyage.\n");
