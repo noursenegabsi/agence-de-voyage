@@ -217,7 +217,7 @@ do {
 }
 while(t==0);
 printf("\nretour a la page principal:\n");
-    printf("1- Oui\n");
+    printf("1- oui\n" );
     printf("2- Non\n");
     scanf("%d",&k);
     if(k==1){
